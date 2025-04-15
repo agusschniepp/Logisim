@@ -1,3 +1,4 @@
-# Logisim-Evolution
+# Logisim-Evolution WSL
 
 ## Agustin Schniepp
+
